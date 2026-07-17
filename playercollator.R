@@ -8,7 +8,7 @@ pacman::p_load(pacman, dplyr, GGally, ggplot2, ggthemes, ggvis, httr, lubridate,
 
 
 #Creating
-#Based on creation from fuckcock
+
 
 
 framexist<-exists("playertotframe")
